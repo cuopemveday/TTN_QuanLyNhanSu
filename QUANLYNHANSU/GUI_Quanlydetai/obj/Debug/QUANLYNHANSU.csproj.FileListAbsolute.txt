@@ -52,3 +52,6 @@ D:\SQL\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.TrangChu.resources
 C:\Users\Administrator\Desktop\New folder\QUANLYNHANSU\GUI_Quanlydetai\bin\Debug\GUI_Quanlydetai.exe.config
 C:\Users\Administrator\Desktop\New folder\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.exe
 C:\Users\Administrator\Desktop\New folder\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.pdb
+D:\GitHub\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\bin\Debug\GUI_Quanlydetai.exe.config
+D:\GitHub\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.exe
+D:\GitHub\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.pdb
