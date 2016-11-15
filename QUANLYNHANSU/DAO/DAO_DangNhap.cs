@@ -19,9 +19,7 @@ namespace DAO
         {
             
         }
-        public static DataTable HIENTHI_ALL()
-        {
-           
+       
         }
         public static void Sua(DTO_DangNhap gv)
         {
@@ -32,9 +30,6 @@ namespace DAO
         {
             
         }
-        public static int Xacthuc(string username, string pass)
-        {
-           
-        }
+        
     }
 }
