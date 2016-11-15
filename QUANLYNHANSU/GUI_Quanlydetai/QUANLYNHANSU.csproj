@@ -102,6 +102,12 @@
     <Compile Include="frm_DoiPass.Designer.cs">
       <DependentUpon>frm_DoiPass.cs</DependentUpon>
     </Compile>
+    <Compile Include="frm_KhenThuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_KhenThuong.Designer.cs">
+      <DependentUpon>frm_KhenThuong.cs</DependentUpon>
+    </Compile>
     <Compile Include="MAIN.cs">
       <SubType>Form</SubType>
     </Compile>
