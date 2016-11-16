@@ -51,6 +51,6 @@ namespace DAO
                 role = (int)dt.Rows[0][0];
             DAO_KetNoiDB.CloseConnect(con);
             return role;
-        }
+            } 
     }
 }

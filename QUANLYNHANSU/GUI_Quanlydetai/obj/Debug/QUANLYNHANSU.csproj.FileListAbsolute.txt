@@ -52,3 +52,14 @@ D:\SQL\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.TrangChu.resources
 C:\Users\Administrator\Desktop\New folder\QUANLYNHANSU\GUI_Quanlydetai\bin\Debug\GUI_Quanlydetai.exe.config
 C:\Users\Administrator\Desktop\New folder\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.exe
 C:\Users\Administrator\Desktop\New folder\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.pdb
+D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\bin\Debug\GUI_Quanlydetai.exe.config
+D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.exe
+D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.pdb
+D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\QUANLYNHANSU.csprojResolveAssemblyReference.cache
+D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.frm_DangNhap.resources
+D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.frm_DoiPass.resources
+D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.MAIN.resources
+D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.Properties.Resources.resources
+D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.TaiKhoan.resources
+D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\QUANLYNHANSU.csproj.GenerateResource.Cache
+D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.exe.licenses

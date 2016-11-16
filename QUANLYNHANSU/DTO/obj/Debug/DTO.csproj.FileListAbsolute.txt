@@ -49,3 +49,8 @@ D:\SQL\QUANLYNHANSU\DTO\bin\Debug\DTO.pdb
 D:\SQL\QUANLYNHANSU\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
 D:\SQL\QUANLYNHANSU\DTO\obj\Debug\DTO.dll
 D:\SQL\QUANLYNHANSU\DTO\obj\Debug\DTO.pdb
+D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\DTO\bin\Debug\DTO.dll
+D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\DTO\bin\Debug\DTO.pdb
+D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\DTO\obj\Debug\DTO.dll
+D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\DTO\obj\Debug\DTO.pdb
