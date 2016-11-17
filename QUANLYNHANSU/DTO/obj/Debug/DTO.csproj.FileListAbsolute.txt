@@ -49,8 +49,16 @@ D:\SQL\QUANLYNHANSU\DTO\bin\Debug\DTO.pdb
 D:\SQL\QUANLYNHANSU\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
 D:\SQL\QUANLYNHANSU\DTO\obj\Debug\DTO.dll
 D:\SQL\QUANLYNHANSU\DTO\obj\Debug\DTO.pdb
+<<<<<<< HEAD
 D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\DTO\bin\Debug\DTO.dll
 D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\DTO\bin\Debug\DTO.pdb
 D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
 D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\DTO\obj\Debug\DTO.dll
 D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\DTO\obj\Debug\DTO.pdb
+=======
+F:\Github\TTN_QuanLyNhanSu\QUANLYNHANSU\DTO\bin\Debug\DTO.dll
+F:\Github\TTN_QuanLyNhanSu\QUANLYNHANSU\DTO\bin\Debug\DTO.pdb
+F:\Github\TTN_QuanLyNhanSu\QUANLYNHANSU\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\Github\TTN_QuanLyNhanSu\QUANLYNHANSU\DTO\obj\Debug\DTO.dll
+F:\Github\TTN_QuanLyNhanSu\QUANLYNHANSU\DTO\obj\Debug\DTO.pdb
+>>>>>>> refs/remotes/origin/KCS

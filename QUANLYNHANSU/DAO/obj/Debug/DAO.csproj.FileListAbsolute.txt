@@ -101,5 +101,10 @@ D:\SQL\QUANLYNHANSU\DAO\bin\Debug\DTO.pdb
 D:\SQL\QUANLYNHANSU\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
 D:\SQL\QUANLYNHANSU\DAO\obj\Debug\DAO.dll
 D:\SQL\QUANLYNHANSU\DAO\obj\Debug\DAO.pdb
+<<<<<<< HEAD
 D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
 D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\DAO\obj\Debug\DAO.dll
+=======
+F:\Github\TTN_QuanLyNhanSu\QUANLYNHANSU\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+F:\Github\TTN_QuanLyNhanSu\QUANLYNHANSU\DAO\obj\Debug\DAO.dll
+>>>>>>> refs/remotes/origin/KCS

@@ -17,26 +17,18 @@ namespace DAO
         public static IDataAdapter da;
         public static void Them(DTO_DangNhap gv)
         {
-            con = DAO_KetNoiDB.OpenConnect();
-            SqlHelper.ExecuteNonQuery(con, "PR_THEM_DANGNHAP", gv.UserName, gv.PassWord, gv.Quyen);
-            DAO_KetNoiDB.CloseConnect(con);
+            
         }
-        public static DataTable HIENTHI_ALL()
-        {
-            con = DAO_KetNoiDB.OpenConnect();
-            dt = SqlHelper.ExecuteDataset(con, "PR_HIENTHIDANGNHAP_ALL").Tables[0];
-            DAO_KetNoiDB.CloseConnect(con);
-            return dt;
+       
         }
         public static void Sua(DTO_DangNhap gv)
         {
-            con = DAO_KetNoiDB.OpenConnect();
-            SqlHelper.ExecuteNonQuery(con, "PR_SUA_DANGNHAP", gv.UserName, gv.PassWord,gv.Quyen);
-            DAO_KetNoiDB.CloseConnect(con);
+          
         }
 
         public static void Xoa(string gv)
         {
+<<<<<<< HEAD
             con = DAO_KetNoiDB.OpenConnect();
             SqlHelper.ExecuteNonQuery(con, "PR_XOA_DANGNHAP", gv);
             DAO_KetNoiDB.CloseConnect(con);
@@ -52,5 +44,10 @@ namespace DAO
             DAO_KetNoiDB.CloseConnect(con);
             return role;
             } 
+=======
+            
+        }
+        
+>>>>>>> refs/remotes/origin/KCS
     }
 }
