@@ -102,11 +102,19 @@
     <Compile Include="frm_DoiPass.Designer.cs">
       <DependentUpon>frm_DoiPass.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="frm_PhongBan.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frm_PhongBan.Designer.cs">
       <DependentUpon>frm_PhongBan.cs</DependentUpon>
+=======
+    <Compile Include="frm_KhenThuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_KhenThuong.Designer.cs">
+      <DependentUpon>frm_KhenThuong.cs</DependentUpon>
+>>>>>>> refs/remotes/origin/ThanhTung
     </Compile>
     <Compile Include="MAIN.cs">
       <SubType>Form</SubType>

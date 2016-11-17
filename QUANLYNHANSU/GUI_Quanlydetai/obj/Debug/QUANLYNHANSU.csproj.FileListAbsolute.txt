@@ -54,6 +54,7 @@ C:\Users\Administrator\Desktop\New folder\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug
 C:\Users\Administrator\Desktop\New folder\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.pdb
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\bin\Debug\GUI_Quanlydetai.exe.config
 D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.exe
 D:\github\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.pdb
@@ -83,3 +84,8 @@ D:\GitHub\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\bin\Debug\GUI_Quanlydeta
 D:\GitHub\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.exe
 D:\GitHub\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.pdb
 >>>>>>> refs/remotes/origin/PhanDuy
+=======
+D:\GitHub\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\bin\Debug\GUI_Quanlydetai.exe.config
+D:\GitHub\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.exe
+D:\GitHub\TTN_QuanLyNhanSu\QUANLYNHANSU\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.pdb
+>>>>>>> refs/remotes/origin/ThanhTung
