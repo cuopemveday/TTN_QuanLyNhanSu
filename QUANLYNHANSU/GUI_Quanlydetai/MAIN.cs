@@ -295,5 +295,10 @@ namespace GUI_Quanlydetai
                 clsAddTab.AddTab(xtraTabControl1, "", "Trang Chu", new TrangChu());
             }
         }
+
+        private void barButtonItem44_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            Help.ShowHelp(this, "HelpNhanSu.chm");
+        }
     }
 }
