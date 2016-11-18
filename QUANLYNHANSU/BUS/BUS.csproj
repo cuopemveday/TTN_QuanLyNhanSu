@@ -51,11 +51,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BUS_DangNhap.cs" />
-<<<<<<< HEAD
-    <Compile Include="BUS_PhongBan.cs" />
-=======
     <Compile Include="BUS_KhenThuong.cs" />
->>>>>>> refs/remotes/origin/ThanhTung
+    <Compile Include="BUS_LamViec.cs" />
+    <Compile Include="BUS_NhanVien.cs" />
+    <Compile Include="BUS_PhongBan.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
