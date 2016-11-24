@@ -47,6 +47,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DAO_DangNhap.cs" />
+    <Compile Include="DAO_KetNoiDB.cs" />
+    <Compile Include="DAO_KhenThuong.cs" />
+    <Compile Include="DAO_LamViec.cs" />
+    <Compile Include="DAO_NhanVien.cs" />
+    <Compile Include="DAO_PhongBan.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

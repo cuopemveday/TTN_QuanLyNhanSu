@@ -90,6 +90,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Add.cs" />
+    <Compile Include="CHUCVU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CHUCVU.Designer.cs">
+      <DependentUpon>CHUCVU.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm_DangNhap.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -102,11 +108,47 @@
     <Compile Include="frm_DoiPass.Designer.cs">
       <DependentUpon>frm_DoiPass.cs</DependentUpon>
     </Compile>
+    <Compile Include="frm_KhenThuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_KhenThuong.Designer.cs">
+      <DependentUpon>frm_KhenThuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_NhanVienTC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_NhanVienTC.Designer.cs">
+      <DependentUpon>frm_NhanVienTC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_PhongBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_PhongBan.Designer.cs">
+      <DependentUpon>frm_PhongBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KHENTHUONG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KHENTHUONG.Designer.cs">
+      <DependentUpon>KHENTHUONG.cs</DependentUpon>
+    </Compile>
     <Compile Include="MAIN.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MAIN.Designer.cs">
       <DependentUpon>MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NHANVIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NHANVIEN.Designer.cs">
+      <DependentUpon>NHANVIEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PHONGBAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PHONGBAN.Designer.cs">
+      <DependentUpon>PHONGBAN.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -116,11 +158,35 @@
     <Compile Include="TaiKhoan.Designer.cs">
       <DependentUpon>TaiKhoan.cs</DependentUpon>
     </Compile>
+    <Compile Include="TrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrangChu.Designer.cs">
+      <DependentUpon>TrangChu.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="frm_DangNhap.resx">
       <DependentUpon>frm_DangNhap.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_DoiPass.resx">
       <DependentUpon>frm_DoiPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_KhenThuong.resx">
+      <DependentUpon>frm_KhenThuong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_NhanVienTC.resx">
+      <DependentUpon>frm_NhanVienTC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_PhongBan.resx">
+      <DependentUpon>frm_PhongBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KHENTHUONG.resx">
+      <DependentUpon>KHENTHUONG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NHANVIEN.resx">
+      <DependentUpon>NHANVIEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PHONGBAN.resx">
+      <DependentUpon>PHONGBAN.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="MAIN.resx">
@@ -138,6 +204,9 @@
     </Compile>
     <EmbeddedResource Include="TaiKhoan.resx">
       <DependentUpon>TaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrangChu.resx">
+      <DependentUpon>TrangChu.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
